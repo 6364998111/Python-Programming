@@ -18,3 +18,6 @@ def smallest(arr,n):
 
 arr=list(map(int,input().split()))
 smallest(arr,len(arr))
+
+# time complexity: O(n)
+# space complexity: O(1)
